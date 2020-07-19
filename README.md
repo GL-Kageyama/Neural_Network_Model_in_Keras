@@ -2,6 +2,8 @@
 
 This is a sample visualization of the model structure of a neural network.
 
+The library uses TensorFlow and the wrapper Keras.
+
 # Example of VGG16
 
 Model: "vgg16"
