@@ -1,4 +1,4 @@
-# Neural Network Model in Keras
+# Neural Network Model Structure
 
 This is a sample visualization of the model structure of a neural network.
 
